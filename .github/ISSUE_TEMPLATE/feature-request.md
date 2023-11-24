@@ -2,7 +2,7 @@
 name: Feature Request
 about: If you have a suggestion for a new feature such as a mod, please let us know!
 title: ''
-labels: ''
+labels: 'enhancement'
 assignees: ''
 
 ---
