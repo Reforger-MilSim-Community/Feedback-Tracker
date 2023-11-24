@@ -2,7 +2,7 @@
 name: Bug Report
 about: If you have found a bug within our server, please report it here!
 title: ''
-labels: ''
+labels: 'bug'
 assignees: ''
 
 ---
